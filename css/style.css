@@ -11,5 +11,12 @@ display: flex;
 justify-content: space-around;
 }
 body{
-    background-color: aqua;
+    background-color: rgb(129, 214, 214);
+}
+
+img{
+  width: 200px; height: 200px;
+}
+{
+    .contenido
 }
